@@ -3,7 +3,7 @@ to clone
 go to a folder where you want to clone
 then do following
   git init
-  git clone https://github.com/rajila598/pandora.git
+  git clone https://github.com/ra-123-jila/pandora.git
   
 to pull and push
 
